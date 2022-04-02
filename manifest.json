@@ -1,0 +1,21 @@
+{
+  "short_name": "valsan-azerty-boi",
+  "name": "valsan-azerty-boi",
+  "start_url": "index.html?source=pwa",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "./img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#9AAED9",
+  "background_color": "#9AAED9",
+  "display": "standalone"
+}
